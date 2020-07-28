@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 You can find my products at:
-[Lucid Cube](lucidcube.com)
+[Lucid Cube](http://lucidcube.com)
 and
-[Just Develop It](justdevelop.it)
+[Just Develop It](http://justdevelop.it)
